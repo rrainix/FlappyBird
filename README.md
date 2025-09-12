@@ -26,7 +26,7 @@ Play the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 ---
 
 ## 📦 Asset Credits
-- Graphics & sounds: [megacrash – Flappy Bird Assets](https://megacrash.itch.io/flappy-bird-assets)
+- Sprites: [megacrash – Flappy Bird Assets](https://megacrash.itch.io/flappy-bird-assets)
 
 ---
 
