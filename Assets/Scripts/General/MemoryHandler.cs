@@ -334,7 +334,6 @@ public static class Serializer
     }
 }
 
-
 public static class SaveManager
 {
     public static readonly string mainPath = FileManager.FromGameFolder("Data");
