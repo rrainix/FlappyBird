@@ -17,14 +17,12 @@ Play the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 - **All code inside `/Assets/Scripts` is 100% written by me.**  
 - Built from scratch in Unity with C#.  
 - Total dev time: ~10 hours.  
-- Focused on clean structure, simple mechanics, and rapid prototyping.
 
 ---
 
 ## 🎮 Controls
-- **Space / Left Mouse** – Jump  
-- Avoid the pipes and survive as long as possible!
-
+- **Space / Left Mouse** – Jump
+  
 ---
 
 ## 📦 Asset Credits
@@ -35,8 +33,7 @@ Play the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 ## ⚙️ Tech
 - Unity 6.0  
 - C# (MonoBehaviour scripts)  
-- 2D physics, sprite animation, simple state machine  
-- Build target: WebGL (Itch.io), Windows
+- 2D
 
 ---
 
