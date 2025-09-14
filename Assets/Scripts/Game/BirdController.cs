@@ -4,7 +4,6 @@ using UnityEngine;
 public class BirdController : MonoBehaviour
 {
     private Rigidbody2D rb2D;
-    private CircleCollider2D circleCollider;
 
     [SerializeField] private float gravityScale = 5f;
     [SerializeField] private float movementSpeed = 5f;
@@ -13,10 +12,11 @@ public class BirdController : MonoBehaviour
     [SerializeField] private float rotationMultiplier = 2;
     [SerializeField] private float maxVeloctiyY = 10;
 
-    private bool isDead;
     [SerializeField] private float deathForce = 2;
     [SerializeField] private Animator birdAnimator;
 
+    private bool isDead;
+    private bool isOnFloor;
 
     public static Action OnGameOver;
 
@@ -33,7 +33,6 @@ public class BirdController : MonoBehaviour
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
-        circleCollider = GetComponent<CircleCollider2D>();
     }
 
 
@@ -72,8 +71,6 @@ public class BirdController : MonoBehaviour
         }
          
     }
-
-    private bool isOnFloor = false;
 
     private void OnCollisionExit2D(Collision2D collision)
     {
