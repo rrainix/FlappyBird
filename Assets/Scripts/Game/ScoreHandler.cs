@@ -12,7 +12,6 @@ public class ScoreHandler : MonoBehaviour
 
     private int curScore;
     private bool gameOver;
-
     private Vector3 lastPipePos;
 
 
