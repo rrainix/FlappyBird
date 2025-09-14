@@ -2,12 +2,11 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    [Space(5)]
-    [Header("Follow Properties")]
     public Transform followTarget;
     [SerializeField] private float smoothTime;
-    public float followOrthoSize = 11;
+    [SerializeField] private float followOrthoSize = 11;
     [SerializeField] private float followOrthoSizeLerpSpeed = 0.1f;
+
     private Vector3 velocity;
 
     private void OnEnable()
@@ -37,7 +36,7 @@ public class CameraController : MonoBehaviour
             transform.position.z
         );
 
-        // KEIN fixedDeltaTime hier multiplizieren!
+
         transform.position = Vector3.SmoothDamp(
             transform.position,
             targetPos,
