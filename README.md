@@ -14,7 +14,7 @@ Download the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 ---
 
 ## Code & Development
-- **All code inside `/Assets/Scripts` is 100% written by me.**  
+- **All code inside `/Assets/Scripts` is written by me.**  
 - Built from scratch in Unity with C#.  
 - Total dev time: ~10 hours.  
 
