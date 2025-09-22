@@ -5,7 +5,7 @@ Download the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="docs/screen1.png" width="45%" alt="Gameplay Screenshot 1">
   <img src="docs/screen2.png" width="45%" alt="Gameplay Screenshot 2">
@@ -13,29 +13,29 @@ Download the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 
 ---
 
-## 🧑‍💻 Code & Development
+## Code & Development
 - **All code inside `/Assets/Scripts` is 100% written by me.**  
 - Built from scratch in Unity with C#.  
 - Total dev time: ~10 hours.  
 
 ---
 
-## 🎮 Controls
+## Controls
 - **Space / Left Mouse** – Jump
   
 ---
 
-## 📦 Asset Credits
+## Asset Credits
 - Sprites: [megacrash – Flappy Bird Assets](https://megacrash.itch.io/flappy-bird-assets)
 
 ---
 
-## ⚙️ Tech
+## Tech
 - Unity 6.0  
 - C# (MonoBehaviour scripts)  
 - 2D
 
 ---
 
-## 🚀 Play Now
+## Play Now
 👉 [Play on Itch.io](https://rainixx.itch.io/flappy-bird)
