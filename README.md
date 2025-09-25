@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird (Unity Clone)
 
-A small **Flappy Bird clone**, (prototype version) built in about **1 hours** using **Unity 6.0**.  
+A small **Flappy Bird clone**, (prototype version) built in about **2 hours** using **Unity 6.0**.  
 Download the game here: [▶️ Itch.io](https://rainixx.itch.io/flappy-bird)
 
 ---
